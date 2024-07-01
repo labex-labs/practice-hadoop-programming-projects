@@ -6,8 +6,8 @@
 
 Unlock the power of Hadoop and learn to handle big data across clusters efficiently. Our Skill Tree guides you from Hadoop basics like HDFS and MapReduce to advanced topics such as YARN and Apache Hive. Gain the skills to analyze and manage large datasets, a must-have for any data professional.
 
-|   Index | Name                           | Level   | Project Link                                                                 |
-|---------|--------------------------------|---------|------------------------------------------------------------------------------|
+|   Index | Name                           | Level   | Project Link                                                                |
+|---------|--------------------------------|---------|-----------------------------------------------------------------------------|
 |       1 | Install Hadoop on a Single ECS | ★★☆     | [🚀 Start Building](https://labex.io/courses/install-hadoop-on-a-single-ecs) |
 |       2 | Run Hadoop Jobs on E-MapReduce | ★★☆     | [🚀 Start Building](https://labex.io/courses/run-hadoop-jobs-on-e-mapreduce) |
 
